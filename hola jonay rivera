@@ -1,4 +1,4 @@
-public class MainClass {
+public class JonayRivera {
   public static void main(String[] args) {
   System.out.println("hola soy Jonay Rivera");
   }
